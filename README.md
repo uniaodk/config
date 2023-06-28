@@ -1,3 +1,3 @@
 # Configuration Files
 
-There are files to configure IDE formarting
+Files to configure IDE formarting
